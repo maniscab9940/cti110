@@ -1,2 +1,4 @@
-# cti110
-cti110 repository
+# cti110 repository
+Created for P2LAB1
+Lundy
+06/19/2018
